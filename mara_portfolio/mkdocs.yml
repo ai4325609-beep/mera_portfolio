@@ -1,0 +1,13 @@
+site_name: My Journey
+site_description: A showcase of my projects and skills
+
+
+theme: mkdocs
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Blogs: Blogs.md
+  - skills: skills.md
+  - resume: resume.md
+  - About Me: about.md
+ 
